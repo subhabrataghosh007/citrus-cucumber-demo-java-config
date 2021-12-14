@@ -18,7 +18,7 @@
         <targetJdk>1.8</targetJdk>
         <citrus.version>2.6.2</citrus.version>
         <slf4j.version>1.7.22</slf4j.version>
-        <log4j.version>2.7</log4j.version>
+        <log4j.version>2.16.0</log4j.version>
         <cucumber.version>1.2.5</cucumber.version>
     </properties>
     
